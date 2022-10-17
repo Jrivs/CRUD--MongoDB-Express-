@@ -1,0 +1,8 @@
+#Environment Variables
+.env
+
+#Node Dependencies
+node_modules
+
+#Builded Project
+dist
